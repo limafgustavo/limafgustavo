@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on personal Kotlin projects for my studies.<br>🌱 I’m currently learning Kotlin, Jepack Compose and AWS.<br>⚡ I have worked in Infrastructure IT for the past few years, and now I am transitioning to Android Native development.
+⚡ I have worked in Infrastructure IT for the past few years, and now I am transitioning to Android Native development.
 
 
 ## 🌐 Socials:
