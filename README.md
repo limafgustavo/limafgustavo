@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I have worked in Infrastructure IT for the past few years, and now I am transitioning to Android Native development.
+⚡ I have worked in Infrastructure IT for the past few years, and now I am transitioning to Android/IOS Native development.
 
 
 ## 🌐 Socials:
